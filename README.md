@@ -1,2 +1,2 @@
-# goit-js-hw-01
-Variables and types. The basics of functions
+# goit-js-hw-06
+OOP Classes
